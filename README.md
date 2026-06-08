@@ -11,9 +11,6 @@ LIVE LINK :-https://ai-learning-digital-twin.onrender.com
 <img width="1602" height="902" alt="image" src="https://github.com/user-attachments/assets/b67e6295-db1a-4223-b857-83f681533f91" />
 <img width="1223" height="747" alt="image" src="https://github.com/user-attachments/assets/6153901c-472d-4d6e-bcb3-4a34a1517fd3" />
 
-
-
-
 ---
 
 ## What It Does
