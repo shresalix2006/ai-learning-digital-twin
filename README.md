@@ -2,7 +2,7 @@
 
 > A personalized, gamified AI learning platform powered by **Gemini** and **NVIDIA APIs** — built with a cyberpunk terminal aesthetic, adaptive AI tutoring, and a manual rep-based progression system.
 
-LIVE LINK :-"https://ai-learning-digital-twin.onrender.com"
+LIVE LINK :-https://ai-learning-digital-twin.onrender.com
  
 <img width="1361" height="877" alt="image" src="https://github.com/user-attachments/assets/37d9206a-2e86-4b3a-a923-9764e2b4ed9a" />
 <img width="1692" height="881" alt="image" src="https://github.com/user-attachments/assets/0174cf26-b046-4553-81e8-e58d84a9358a" />
