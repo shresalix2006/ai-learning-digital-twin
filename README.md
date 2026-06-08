@@ -206,4 +206,4 @@ files/
 
 **Shrestha Chatterjee** — B.Tech CSE (AI/ML), SRMIST Delhi-NCR + B.S. Data Science, IIT Madras
 
-[GitHub](https://github.com/shresalix2006) · [LinkedIn](https://www.linkedin.com/in/shrestha-chatterjee-421a27332)
+· [LinkedIn](https://www.linkedin.com/in/shrestha-chatterjee-421a27332)
