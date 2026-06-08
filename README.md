@@ -60,7 +60,12 @@ TWIN::AI is a browser-based adaptive learning dashboard that acts as your person
 ### 7. Topic Recap (Log Session)
 - After selecting a topic in the Log Session tab, click **"Explain This Topic"**
 - Gemini generates a short, practical recap of that topic — what it is, why it matters, one real-world example
-- Designed as a quick refresher before you log your session
+- Designed as a quick refresher before you log your session.
+
+ ### 8. Session Activity Log
+- Every study session you log is recorded in the **Activity** tab with timestamp, topic, duration, mastery score, and XP gained
+- Full history persists via `localStorage` — nothing is lost on refresh
+- Activity feed updates in real-time after every session sync
 
 ---
 
