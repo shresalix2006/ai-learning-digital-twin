@@ -6,7 +6,7 @@ const path = require('path');
 const PORT = 4000;
 
 // ── API Keys & Models ───────────────────────────────────────────────────────
-require('dotenv').config();
+
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 const NVIDIA_API_KEY = process.env.NVIDIA_API_KEY;
 // API keys loaded from config.js
